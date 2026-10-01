@@ -11,7 +11,6 @@ Ola mundo! Me chamo Miguel Toledo, tenho 23 anos e estou fazendo o primeiro seme
 |------------|--------|----------|
 | Miguel Toledo | GitHub | LinkedIn |
 | Igor de Sousa Vieira | GitHub | LinkedIn |
- revert-7-feature-linguagens
 | Marcos Vinicius | GitHub | LinkedIn |
 
 | Marcos Vinicius | GitHub | LinkedIn |
@@ -24,4 +23,3 @@ Ola mundo! Me chamo Miguel Toledo, tenho 23 anos e estou fazendo o primeiro seme
 | Eliel Silva | HTML/CSS |
 | Bruno Eduardo | Git |
 | Raniere Azevedo | MySQL |
- main
