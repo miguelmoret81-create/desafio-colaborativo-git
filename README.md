@@ -14,9 +14,10 @@ Ola mundo! Me chamo Miguel Toledo, tenho 23 anos e estou fazendo o primeiro seme
 | Marcos Vinicius | GitHub | LinkedIn |
 
 ## Linguagens Aprendidas
-|Professor(a)|Linguagem|
-|---------|-------|---------|
-| Ione Ferrarine | Linguagem: C |
-| Eliel Silva | Linguagem: HTML/CSS |
-| Bruno Eduardo | Linguagem: Git |
-| Raniere Azevedo | Linguagem: MySQL |
+
+| Professor(a) | Linguagem |
+|--------------|-----------|
+| Ione Ferrarine | C |
+| Eliel Silva | HTML/CSS |
+| Bruno Eduardo | Git |
+| Raniere Azevedo | MySQL |
