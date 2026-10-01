@@ -5,7 +5,7 @@ Ola mundo! Me chamo Miguel Toledo, tenho 23 anos e estou fazendo o primeiro seme
 
 
 
-## Redes Sociais
+## Redes Sociais da Equipe
 
 | Integrante | GitHub | LinkedIn |
 |------------|--------|----------|
